@@ -1,0 +1,10 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #000; /* Cor de fundo preta */
+  color: #fff;
+  padding: 4px; /* Ajuste a altura conforme necessário */
+  text-align: center;
+  font-size: 12px; /* Tamanho da fonte */
+}
