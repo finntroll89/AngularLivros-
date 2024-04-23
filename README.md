@@ -3,4 +3,5 @@ Instale o Angular CLI (Command Line Interface): Se você ainda não tem o Angula
 npm install -g @angular/cli
 
 Execute o projeto: Use o seguinte comando para iniciar o servidor de desenvolvimento e executar o projeto:
-ng serve
+
+### ng serve
